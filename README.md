@@ -1,5 +1,5 @@
 # Predict-The-Defense-Ready-Condition-Levels
-Defense Ready Condition (DEFCON) Levels are a way of identifying the current threat level faced by the Department of Defense and the United States military. These levels, on a scale from one to five, indicate the highest level of threat and readiness for it to the lowest level of preparedness required for peacetime.  
+Defense Ready Condition (DEFCON) Levels are a way of identifying the current threat level faced by the Department of Defense and the States military. These levels, on a scale from one to five, indicate the highest level of threat and readiness for it to the lowest level of preparedness required for peacetime.  
 
 #Data
 Data files  
